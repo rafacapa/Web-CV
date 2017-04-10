@@ -808,9 +808,12 @@
 
 	@media (max-width: 767px) {
 
+		.pie-chart-description {
+			text-align: center;
+		}
 		.pie-chart {
 			float: none;
-			margin: 0 auto 30px;
+			margin: 0 auto 0px;
 		}
 
 		.pie-chart-description { margin-left: 0; }
