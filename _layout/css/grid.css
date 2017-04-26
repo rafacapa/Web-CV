@@ -225,7 +225,7 @@
 					box-sizing: border-box;
 			margin-left: 0;
 		}
-    .printitem{    width: 30%; float: left; display: block;}
+    .printitem{    width: 33.3%; float: left; display: block;}
 		.hidden-desktop { display: inherit !important; }
 		.visible-desktop { display: none !important; }
 		.visible-phone { display: inherit !important; }
