@@ -5,7 +5,7 @@
    ========================================================================== */
 
 	body {
-		background: #222 url(../../images/bg-body14.png) repeat top left;
+		background: #222 url(../images/bg-body14.png) repeat top left;
 		color: #444;
 	}
 
@@ -296,11 +296,11 @@
 	.divider.double-line { border-top: 4px double #e2e2e2; }
 
 	.divider.single-dotted {
-		 background: url(../../images/bg-single-dotted.gif) repeat-x top left ;
+		 background: url(../images/bg-single-dotted.gif) repeat-x top left ;
 	}
 
 	.divider.double-dotted {
-		background: url(../../images/bg-double-dotted.gif) repeat-x top left;
+		background: url(../images/bg-double-dotted.gif) repeat-x top left;
 	}
 
 /* ==========================================================================
